@@ -1,6 +1,6 @@
-# Albatross
-## The LAMP stack Vagrant Repository
-Just a vagrant repository for any web development using a LAMP stack with Puppet and Vagant.
+# Albatross and a Giant Snake
+## The LAMP stack Vagrant Repository for Python Development
+Just a vagrant repository for any web development with a Python over a LAMP stack using Puppet and Vagant.
 
 ## Specifications
 - ip:       "192.168.33.10"
