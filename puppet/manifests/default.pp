@@ -22,5 +22,5 @@ include apache
 include system-update
 include php
 include mysql
-include github-pages
+include python
 include vhost
